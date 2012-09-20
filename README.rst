@@ -28,5 +28,6 @@ My additions
 
 I've added a couple of template tags
 
-other_user: Returns the other user in the thread
-other_user_profile: Returns the other user in the thread
+  other_user: Returns the other user in the thread
+  
+  other_user_profile: Returns the other user in the thread
